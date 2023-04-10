@@ -1,0 +1,38 @@
+.Home-section {
+  display: flex;
+  flex-direction: column;
+  background-color: #183b56;
+  height: 100vh;
+}
+.nav-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+}
+.logo {
+  height: 50px;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.home-card-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.head {
+  color: white;
+  font-family: roboto;
+  text-align: center;
+}
+.card {
+  height: 150px;
+  width: 250px;
+}

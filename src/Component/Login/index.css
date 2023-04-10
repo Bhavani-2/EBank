@@ -1,0 +1,28 @@
+.login-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #152850;
+  height: 100vh;
+}
+.login-logo {
+  background-color: #e0eefe;
+  height: 550px;
+  width: 420px;
+  border-radius: 10px;
+  padding: 10px;
+}
+.login-card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 550px;
+  border-radius: 10px;
+  width: 420px;
+  padding: 10px;
+  justify-content: center;
+}
+.label {
+  margin-bottom: 10px;
+}
